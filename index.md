@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Ki-Soo Jeong, PhD
 
 **Postdoctoral Research Fellow**  
