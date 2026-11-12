@@ -2,3 +2,6 @@ title: Ki-Soo Jeong, PhD
 description: Biomedical Engineer and Neuroscientist
 url: "https://www.kisoojeong.com"
 theme: minima
+
+titles_from_headings:
+  enabled: false
