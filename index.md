@@ -11,7 +11,7 @@ layout: default
 
     <p>I am a biomedical engineer and neuroscientist studying sensory processing, pain, and behavior through experimental and computational approaches.</p>
 
-    <p>My research interests include neural circuits, in vivo electrophysiology, quantitative behavioral analysis, and neuroengineering.</p>
+    <p>My research interests include neural circuits, *in vivo* electrophysiology, quantitative behavioral analysis, and neuroengineering.</p>
 
     <p>
       <a href="mailto:ki-soo_jeong@alumni.brown.edu">Email</a> ·
