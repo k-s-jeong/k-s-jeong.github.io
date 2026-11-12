@@ -39,6 +39,4 @@ layout: default
 
 1. **Jeong, K.-S.**, et al. (2026). [Automated detection of blink reflexes evoked by optogenetic stimulation of TRPV1-lineage corneal afferents in transgenic mice.](https://doi.org/10.1016/j.jneumeth.2026.110952) *Journal of Neuroscience Methods*.
 
-2. Zhu, C.*, **Jeong, K.-S.***, et al. (2025). [Spinal cord stimulation using time-dynamic pulses achieves longer reversal of allodynia compared to tonic pulses in a rat model of neuropathic pain.](https://doi.org/10.3389/fpain.2025.1541078) *Frontiers in Pain Research*, 6, 1541078.
-
-*Equal contribution.
+2. Zhu, C.\*, **Jeong, K.-S.**\*, et al. (2025). [Spinal cord stimulation using time-dynamic pulses achieves longer reversal of allodynia compared to tonic pulses in a rat model of neuropathic pain.](https://doi.org/10.3389/fpain.2025.1541078) *Frontiers in Pain Research*, 6, 1541078. (\*Co-first author)
