@@ -4,7 +4,8 @@ layout: default
 # Ki-Soo Jeong, PhD
 
 **Postdoctoral Fellow**  
-Cleveland Clinic
+Cleveland Clinic  
+[Curriculum Vitae (PDF)](/Ki-Soo-Jeong-CV.pdf)
 
 <img src="/Jeong_Ki-Soo_Lab_Coat_Ref.jpg"
      alt="Ki-Soo Jeong"
@@ -17,7 +18,16 @@ My research interests include neural circuits, in vivo electrophysiology, quanti
 
 <div style="clear: both;"></div>
 
-- Curriculum Vitae (coming soon)
+## Education
+
+**Ph.D., Biomedical Engineering**  
+Brown University, 2025
+
+**M.S., Biotechnology**  
+Brown University, 2018
+
+**B.S., Biochemistry**  
+University of Washington
 
 ## Selected Publications
 
