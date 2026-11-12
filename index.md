@@ -33,7 +33,7 @@ layout: default
 ## Education
 
 **Ph.D., Biomedical Engineering** — Brown University, 2025  
-**M.S., Biotechnology** — Brown University, 2018  
+**Sc.M., Biotechnology** — Brown University, 2018  
 **B.S., Biochemistry** — University of Washington, 2013
 
 ## Selected Publications
