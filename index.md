@@ -3,12 +3,19 @@ layout: default
 ---
 # Ki-Soo Jeong, PhD
 
-**Postdoctoral Research Fellow**  
+**Postdoctoral Fellow**  
 Cleveland Clinic
+
+<img src="/Jeong_Ki-Soo_Lab_Coat_Ref.jpg"
+     alt="Ki-Soo Jeong"
+     width="200"
+     style="float: right; margin: 0 0 15px 25px; border-radius: 8px;">
 
 I am a biomedical engineer and neuroscientist studying sensory processing, pain, and behavior through experimental and computational approaches.
 
 My research interests include neural circuits, in vivo electrophysiology, quantitative behavioral analysis, and neuroengineering.
+
+<div style="clear: both;"></div>
 
 - Curriculum Vitae (coming soon)
 
@@ -23,7 +30,7 @@ My research interests include neural circuits, in vivo electrophysiology, quanti
    *Frontiers in Pain Research*, 6.
    (Co-first author)
 
-[View all publications on Google Scholar](https://scholar.google.com/citations?user=IFU22lkAAAAJ)
+   [View all publications on Google Scholar](https://scholar.google.com/citations?user=IFU22lkAAAAJ)
 
 ## Professional Links
 
