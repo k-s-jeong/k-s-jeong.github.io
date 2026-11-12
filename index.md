@@ -16,6 +16,7 @@ layout: default
     <p>
       <a href="mailto:ki-soo_jeong@alumni.brown.edu">Email</a> ·
       <a href="/Ki-Soo-Jeong-CV.pdf">CV (PDF)</a> ·
+      <a href="https://orcid.org/0000-0003-1705-8623">ORCID</a> ·
       <a href="https://scholar.google.com/citations?user=IFU22lkAAAAJ">Google Scholar</a> ·
       <a href="https://www.linkedin.com/in/kisoojeong">LinkedIn</a> ·
       <a href="https://github.com/k-s-jeong">GitHub</a> ·
