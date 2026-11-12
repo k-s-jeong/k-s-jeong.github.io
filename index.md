@@ -16,8 +16,10 @@ layout: default
     <p>
       <a href="/Ki-Soo-Jeong-CV.pdf">CV (PDF)</a> ·
       <a href="https://scholar.google.com/citations?user=IFU22lkAAAAJ">Google Scholar</a> ·
+      <a href="https://www.linkedin.com/in/kisoojeong">LinkedIn</a> ·
       <a href="https://github.com/k-s-jeong">GitHub</a> ·
-      <a href="https://www.lerner.ccf.org/biomedical-engineering/saab/#lab-people">Lab Website</a>
+      <a href="https://www.lerner.ccf.org/biomedical-engineering/saab/#lab-people">Lab Website</a> ·
+      <a href="mailto:ki-soo_jeong@alumni.brown.edu">Email</a>
     </p>
   </div>
 
