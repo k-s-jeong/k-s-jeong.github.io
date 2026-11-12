@@ -7,11 +7,11 @@ layout: default
 <div style="display: flex; gap: 25px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
   <div style="flex: 1 1 280px;">
     <p><strong>Postdoctoral Fellow</strong><br>
-    Cleveland Clinic</p>
+    Cleveland Clinic Research</p>
 
     <p>I am a biomedical engineer and neuroscientist studying sensory processing, pain, and behavior through experimental and computational approaches.</p>
 
-    <p>My research interests include neural circuits, *in vivo* electrophysiology, quantitative behavioral analysis, and neuroengineering.</p>
+    <p>My research interests include neural circuits, <i>in vivo</i> electrophysiology, quantitative behavioral analysis, and neuroengineering.</p>
 
     <p>
       <a href="mailto:ki-soo_jeong@alumni.brown.edu">Email</a> ·
@@ -40,7 +40,7 @@ layout: default
 
 1. **Jeong, K.-S.**, et al. (2026). [Automated detection of blink reflexes evoked by optogenetic stimulation of TRPV1-lineage corneal afferents in transgenic mice.](https://doi.org/10.1016/j.jneumeth.2026.110952) *Journal of Neuroscience Methods*.
 
-2. Zhu, C.\*, **Jeong, K.-S.**\*, et al. (2025). [Spinal cord stimulation using time-dynamic pulses achieves longer reversal of allodynia compared to tonic pulses in a rat model of neuropathic pain.](https://doi.org/10.3389/fpain.2025.1541078) *Frontiers in Pain Research*, 6, 1541078. (\*Co-first author)
+2. Zhu, C.\*, **Jeong, K.-S.**\*, et al. (2025). [Spinal cord stimulation using time-dynamic pulses achieves longer reversal of allodynia compared to tonic pulses in a rat model of neuropathic pain.](https://doi.org/10.3389/fpain.2025.1541078) *Frontiers in Pain Research*, 6, 1541078. (\*Co-first author).
 
 ## Additional Publications
 
